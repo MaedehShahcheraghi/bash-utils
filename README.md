@@ -12,4 +12,4 @@ A collection of personal Bash scripts and CLI tools designed to automate daily t
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/bash-utils.git](https://github.com/YOUR_USERNAME/bash-utils.git) ~/.bash-utils
+   git clone [https://github.com/MaedehShahcheraghi/bash-utils.git](https://github.com/MaedehShahcheraghi/bash-utils.git) ~/.bash-utils
